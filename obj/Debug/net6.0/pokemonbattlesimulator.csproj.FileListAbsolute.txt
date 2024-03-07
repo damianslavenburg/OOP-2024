@@ -1,0 +1,15 @@
+/home/overloard/Documents/GitHub/csharp-oop/bin/Debug/net6.0/pokemonbattlesimulator
+/home/overloard/Documents/GitHub/csharp-oop/bin/Debug/net6.0/pokemonbattlesimulator.deps.json
+/home/overloard/Documents/GitHub/csharp-oop/bin/Debug/net6.0/pokemonbattlesimulator.runtimeconfig.json
+/home/overloard/Documents/GitHub/csharp-oop/bin/Debug/net6.0/pokemonbattlesimulator.dll
+/home/overloard/Documents/GitHub/csharp-oop/bin/Debug/net6.0/pokemonbattlesimulator.pdb
+/home/overloard/Documents/GitHub/csharp-oop/obj/Debug/net6.0/pokemonbattlesimulator.csproj.AssemblyReference.cache
+/home/overloard/Documents/GitHub/csharp-oop/obj/Debug/net6.0/pokemonbattlesimulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/overloard/Documents/GitHub/csharp-oop/obj/Debug/net6.0/pokemonbattlesimulator.AssemblyInfoInputs.cache
+/home/overloard/Documents/GitHub/csharp-oop/obj/Debug/net6.0/pokemonbattlesimulator.AssemblyInfo.cs
+/home/overloard/Documents/GitHub/csharp-oop/obj/Debug/net6.0/pokemonbattlesimulator.csproj.CoreCompileInputs.cache
+/home/overloard/Documents/GitHub/csharp-oop/obj/Debug/net6.0/pokemonbattlesimulator.dll
+/home/overloard/Documents/GitHub/csharp-oop/obj/Debug/net6.0/refint/pokemonbattlesimulator.dll
+/home/overloard/Documents/GitHub/csharp-oop/obj/Debug/net6.0/pokemonbattlesimulator.pdb
+/home/overloard/Documents/GitHub/csharp-oop/obj/Debug/net6.0/pokemonbattlesimulator.genruntimeconfig.cache
+/home/overloard/Documents/GitHub/csharp-oop/obj/Debug/net6.0/ref/pokemonbattlesimulator.dll

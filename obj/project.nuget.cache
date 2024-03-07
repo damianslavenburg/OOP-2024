@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BPgIXPxBsnTqDSBtrTg/vjvyNWHVxiCS/UUQxvaE0OU0hQ9hhrorG6IGi+yP1ElltVQvs9497NU/NkGTXJnEYA==",
+  "success": true,
+  "projectFilePath": "/home/overloard/Documents/GitHub/csharp-oop/pokemonbattlesimulator.csproj",
+  "expectedPackageFiles": [
+    "/home/overloard/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/overloard/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/overloard/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

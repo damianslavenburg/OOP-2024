@@ -1,2 +1,2 @@
-# OOP-2024
-loeve you pookie bear
+# csharp-oop
+ pokemon battlesimulator 
